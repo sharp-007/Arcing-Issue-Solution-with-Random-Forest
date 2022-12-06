@@ -8,7 +8,7 @@ Classification
 
 Random Forest
 
-Grid_search
+Grid_Search
 
 Confusion Matrix
 
