@@ -8,10 +8,8 @@ Acring Issue Data Analysis Solution for Glass Panel Industry
 4. Key Factors Identification: Identified the most important key factors and completed visualization according to variance importances
 5. Demo Reporting: Solved the problem of dealing with wide data and multicollinearity, provided data analysis solution and gave a presentation to show the demo
 
-Arcing_Issue_Python_Random_Forest
 
-![Demo1](.//Demo1.png)
 
-Arcing_Issue_Python_Random_Forest
+![Demo1](./Arcing_Issue_Python_Random_Forest/Demo1.png)
 
-![Demo2](.//Demo2.png)
+![Demo2](./Arcing_Issue_Python_Random_Forest/Demo2.png)
