@@ -9,3 +9,5 @@ Acring Issue Data Analysis Solution for Glass Panel Industry
 5. Demo Reporting: Solved the problem of dealing with wide data and multicollinearity, provided data analysis solution and gave a presentation to show the demo
 
 
+./Arcing-Issue-Solution-with-Random-Forest/Demo1.png
+./Arcing-Issue-Solution-with-Random-Forest/Demo2.png
